@@ -1,5 +1,6 @@
 import streamlit as st
 from openai import OpenAI
+st.balloons()
 
 
 # Show title and description.
